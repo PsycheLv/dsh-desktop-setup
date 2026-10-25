@@ -102,6 +102,17 @@
 | DSH 插件开发规范 | DSH 内置 `cordis-plugin-development` skill 与 bundle 规范 |
 | 社区插件索引 | <https://dsh-plugin.org>、<https://dshbase.com>、<https://www.dsh.so>（仅作调研参考，本仓库未使用其市场/索引） |
 
+## 8. 本仓库内的演示素材（`docs/demo/`）
+
+| 文件 | 来源 | 生成方式 | 说明 |
+|---|---|---|---|
+| `boot.gif` | NativeDog1/dsh-boot-animation（BSD-3-Clause）内置「品牌片头」视频 | 从插件内置视频抽帧、10fps、缩放 640w、GIF 调色板压缩 | 仅用于展示效果，**非**完整视频 |
+| `wallpaper.gif` | QWEQ-CELL-DEL/dsh-whale-girl-wallpaper（MIT）的 `assets/wallpaper.mp4` | 同上，720w | 仅用于展示效果，**非**完整视频 |
+| `maximize.svg` | 本仓库自制 | 手写 SVG 示意图 | 示意，非真实截图（截图需系统「屏幕录制」授权） |
+
+演示素材遵循上游许可；其中角色形象仍受第 6 节约束（CC BY-NC-SA 4.0，禁止商用）。
+如相关权利人不希望演示动图出现在本仓库，请提 Issue，我们会立即移除。
+
 ---
 
 ## 免责声明

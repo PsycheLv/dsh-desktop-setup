@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="430" viewBox="0 0 1240 430" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Segoe UI',sans-serif">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#58a6ff"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="1240" height="430" rx="16" fill="#0d1117"/>
+
+  <!-- 左：默认 -->
+  <text x="60" y="66" fill="#e6edf3" font-size="21" font-weight="600">启动时 · 默认</text>
+  <rect x="40" y="90" width="520" height="290" rx="12" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+  <rect x="160" y="150" width="280" height="180" rx="8" fill="#1f6feb" fill-opacity="0.18" stroke="#58a6ff" stroke-width="2"/>
+  <text x="300" y="248" fill="#79c0ff" font-size="17" text-anchor="middle">1280 × 820</text>
+  <text x="300" y="404" fill="#8b949e" font-size="15" text-anchor="middle">窗口居中，四周留白</text>
+
+  <!-- 箭头 -->
+  <line x1="590" y1="240" x2="650" y2="240" stroke="#58a6ff" stroke-width="2.5" marker-end="url(#arrow)"/>
+  <text x="620" y="220" fill="#8b949e" font-size="13" text-anchor="middle">启动</text>
+
+  <!-- 右：最大化 -->
+  <text x="700" y="66" fill="#e6edf3" font-size="21" font-weight="600">自动最大化后</text>
+  <rect x="680" y="90" width="520" height="290" rx="12" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+  <rect x="690" y="100" width="500" height="270" rx="8" fill="#1f6feb" fill-opacity="0.28" stroke="#58a6ff" stroke-width="2"/>
+  <text x="940" y="240" fill="#79c0ff" font-size="17" text-anchor="middle">铺满可见区域</text>
+  <text x="940" y="404" fill="#8b949e" font-size="15" text-anchor="middle">等价于手动点一次最大化</text>
+
+  <text x="620" y="36" fill="#8b949e" font-size="13" text-anchor="middle">dsh-auto-maximize · 需要 macOS「辅助功能」授权</text>
+</svg>
