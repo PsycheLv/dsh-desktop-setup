@@ -106,8 +106,8 @@
 
 | 文件 | 来源 | 生成方式 | 说明 |
 |---|---|---|---|
-| `boot.gif` | NativeDog1/dsh-boot-animation（BSD-3-Clause）内置「品牌片头」视频 | 从插件内置视频抽帧、10fps、缩放 640w、GIF 调色板压缩 | 仅用于展示效果，**非**完整视频 |
-| `wallpaper.gif` | QWEQ-CELL-DEL/dsh-whale-girl-wallpaper（MIT）的 `assets/wallpaper.mp4` | 同上，720w | 仅用于展示效果，**非**完整视频 |
+| `boot.webp` | NativeDog1/dsh-boot-animation（BSD-3-Clause）内置「数字角色苏醒」片头（完整 7.05s） | 12fps、缩放 800w、动画 WebP（q68） | 展示用压缩版，**非**原始视频 |
+| `wallpaper.webp` | QWEQ-CELL-DEL/dsh-whale-girl-wallpaper（MIT）的 `assets/wallpaper.mp4` | 6 秒循环、12fps、900w、动画 WebP（q70） | 展示用压缩版，**非**完整视频 |
 | `maximize.svg` | 本仓库自制 | 手写 SVG 示意图 | 示意，非真实截图（截图需系统「屏幕录制」授权） |
 
 演示素材遵循上游许可；其中角色形象仍受第 6 节约束（CC BY-NC-SA 4.0，禁止商用）。

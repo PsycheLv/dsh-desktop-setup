@@ -3,15 +3,15 @@
 一条命令，把刚装好的 DeepSeek Harness Desktop 变成这样：
 
 <p align="center">
-  <img src="docs/demo/boot.gif" width="32%" alt="开机片头" />
-  <img src="docs/demo/wallpaper.gif" width="32%" alt="动态壁纸" />
+  <img src="docs/demo/boot.webp" width="32%" alt="开机片头" />
+  <img src="docs/demo/wallpaper.webp" width="32%" alt="动态壁纸" />
   <img src="docs/demo/maximize.svg" width="32%" alt="启动自动最大化" />
 </p>
 <p align="center">
   <sub><b>开机片头</b>　·　<b>动态壁纸</b>　·　<b>启动自动最大化</b></sub>
 </p>
 
-三个演示都是从**实际安装的插件素材**抽的帧（片头内置视频 / 壁纸原片），不是效果图。
+三个演示都是从**实际安装的插件素材**抽的帧，不是效果图：片头是内置 4 段中的「数字角色苏醒」**完整 7 秒**，壁纸是原片循环 6 秒。动图为 WebP，浏览器里会自动循环播放。
 
 ---
 
