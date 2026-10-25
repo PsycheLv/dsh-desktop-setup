@@ -6,6 +6,7 @@
 > - **自己动手**：直接看下面的「人工步骤」，命令可以逐条复制。
 >
 > 适用：macOS + 刚装好的 DeepSeek Harness Desktop。执行完得到：开机动画 + 动态壁纸 + 启动自动最大化 + 持久终端 / 自动标题 / CoT 翻译。
+> 来源：<https://github.com/PsycheLv/dsh-desktop-setup> · 文档与脚本 MIT · 上游署名见 [ATTRIBUTION.md](ATTRIBUTION.md)
 
 ---
 

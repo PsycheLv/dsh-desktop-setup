@@ -2,6 +2,18 @@
 
 一套「新 Mac 上把 DeepSeek Harness 配好」的可执行交付物。两种用法，**推荐第一种**。
 
+> 仓库：<https://github.com/PsycheLv/dsh-desktop-setup> · 文档与脚本 **MIT** · 上游署名见 [ATTRIBUTION.md](ATTRIBUTION.md)
+
+## 快速开始
+
+```sh
+git clone https://github.com/PsycheLv/dsh-desktop-setup.git
+cd dsh-desktop-setup
+./setup-dsh-desktop.sh --check     # 先体检
+```
+
+或者直接把 [`AI-执行版.md`](AI-执行版.md) 整份丢给你的 AI。
+
 ## 文件说明
 
 | 文件 | 给谁用 | 说明 |
